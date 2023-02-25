@@ -1,5 +1,3 @@
-# corporate-finance
-
 Python Corporate Finance Library
 
 Introduction
@@ -19,6 +17,7 @@ To install the library, simply run the following command in your terminal:
 
 pip install pyfintech
 
+
 Documentation
 
 The library is fully documented and comes with a range of examples and tutorials to help you get started. To access the documentation, simply visit the following link:
@@ -27,6 +26,6 @@ Python Corporate Finance Library Documentation
 
 Support
 
-If you need help or have any questions, please feel free to reach out to us at hemantthapa1998@gamil.com
+If you need help or have any questions, please feel free to reach out to us at hemantthapa1998@gamil.com 
 
 I am always here to help!

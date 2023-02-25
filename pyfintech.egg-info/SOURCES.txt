@@ -1,0 +1,17 @@
+CHANGELOG.txt
+LICENCE.txt
+LinearRegression.py
+LogisticRegression.py
+MANIFEST.in
+README.md
+ThresholdClassifier.py
+__init__.py
+ipo_details.py
+setup.py
+details/README.txt
+details/version.py
+pyfintech.egg-info/PKG-INFO
+pyfintech.egg-info/SOURCES.txt
+pyfintech.egg-info/dependency_links.txt
+pyfintech.egg-info/requires.txt
+pyfintech.egg-info/top_level.txt

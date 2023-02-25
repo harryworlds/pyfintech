@@ -1,4 +1,23 @@
-# corporate-finance
+Metadata-Version: 2.1
+Name: pyfintech
+Version: 0.1
+Summary: A comprehensive library for corporate finance & Technology in Python
+Home-page: https://github.com/harryworlds/pyfintech
+Author: Hemant Thapa
+Author-email: hemantthapa1998@gmail.com
+License: MIT
+Keywords: corporate finance,pandas,yahoo finance,numpy,pandas datareader,seaborn,matplotlib
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+License-File: LICENCE.txt
 
 Python Corporate Finance Library
 
@@ -19,6 +38,7 @@ To install the library, simply run the following command in your terminal:
 
 pip install pyfintech
 
+
 Documentation
 
 The library is fully documented and comes with a range of examples and tutorials to help you get started. To access the documentation, simply visit the following link:
@@ -27,6 +47,6 @@ Python Corporate Finance Library Documentation
 
 Support
 
-If you need help or have any questions, please feel free to reach out to us at hemantthapa1998@gamil.com
+If you need help or have any questions, please feel free to reach out to us at hemantthapa1998@gamil.com 
 
 I am always here to help!
